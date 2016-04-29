@@ -1,0 +1,9 @@
+Building Sansicoin
+
+See doc/readme-qt.rst for instructions on building Sansicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sansicoin.
+
+See doc/build-*.txt for instructions on building sansicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sansicoin.
