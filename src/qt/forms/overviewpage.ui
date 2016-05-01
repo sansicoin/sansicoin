@@ -321,12 +321,12 @@
            <rect>
             <x>50</x>
             <y>40</y>
-            <width>131</width>
+            <width>200</width>
             <height>20</height>
            </rect>
           </property>
           <property name="text">
-           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.fc-sansibar.de&quot;&gt;&lt;span style=&quot; text-decoration: none; font-weight:600; color:#519507;&quot;&gt;FC Sansibar www&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.fc-sansibar.de&quot;&gt;&lt;span style=&quot; text-decoration: none; font-weight:600; color:#519507;&quot;&gt;FC Sansibar Homepage&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
           </property>
           <property name="scaledContents">
            <bool>true</bool>
@@ -343,7 +343,7 @@
            <rect>
             <x>50</x>
             <y>80</y>
-            <width>161</width>
+            <width>200</width>
             <height>20</height>
            </rect>
           </property>
@@ -365,7 +365,7 @@
            <rect>
             <x>50</x>
             <y>120</y>
-            <width>151</width>
+            <width>200</width>
             <height>20</height>
            </rect>
           </property>
@@ -392,7 +392,7 @@
            </rect>
           </property>
           <property name="text">
-           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:16pt; font-weight:600; color:#010101;&quot;&gt;Social Networks&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#010101;&quot;&gt;Social Networks&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
           </property>
           <property name="scaledContents">
            <bool>true</bool>
